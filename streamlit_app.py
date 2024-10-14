@@ -17,7 +17,7 @@ def response_generator():
         time.sleep(0.05)
 
 
-st.title("NeuraT Friend")
+st.title("NeuraT your Ai Friend")
 
 # Initialize chat history
 if "messages" not in st.session_state:
